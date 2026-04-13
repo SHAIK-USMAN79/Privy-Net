@@ -1,0 +1,21 @@
+Siddhartha CSE
+============
+
+Code with Final Doc
+==============
+B2.Detection of deep fake videos using long distance attention
+B3. AI Based Learning Assistant
+B6. SDN Controller Network Load Balancing Approach for Cloud Computing Data Center
+B10. An AI Based Medical chatbot for infection disease prediction.
+B13. Anti-Spoofing Face Attendance using CNN
+
+
+Final Doc
+=======
+B1.Medical Image Encryption by Content-Aware DNA Computing for Secure Healthcare final doc
+B7. Evoting System using Blockchain
+B14.  Agriculture Helper Chatbot
+C4 . Hand Sign Recognition
+C6. Smart waste management garbage monitoring using IOT (IOT 8)
+C12. Child safety management using RFID technology
+C13. Online Apparel Shopping
